@@ -1,5 +1,5 @@
 # ML_Mastery
-Project to Master Machine Learning Concepts 
+Project aim to Master Machine Learning Concepts 
 
 # Guided by the teaching of Jason, Brownlee.
 # Understand Machine Learning Concepts and Algorithms 
